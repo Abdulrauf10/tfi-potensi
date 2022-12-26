@@ -1,0 +1,75 @@
+.subtest-1{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.question{
+  border: 2px solid #9e9e9e;
+  padding: 20px;
+  border-radius: 7px;
+  margin-top: 20px;
+}
+
+.img-subtest-1{
+  width: 300px;
+}
+
+.choice{
+  
+}
+
+.image-choice{
+  margin-bottom: 10px;
+  width: 60px;
+  height: 40px;
+}
+
+.is-correct{
+  margin-top: 8px;
+}
+
+.choice-is-correct{
+  display: flex;
+  margin-top: 30px;
+  justify-content: center;
+}
+
+.input-is-correct{
+  margin-right: 30px;
+  margin-bottom: 35px;
+}
+
+.paginationBttns {
+  width: 100%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid #5a5ce4;
+  color: #5a5ce4;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: white;
+  background-color: #5a5ce4;
+}
+
+.paginationActive a {
+  color: white;
+  background-color: #5a5ce4;
+}
+
+.click-submit{
+  margin-top: 50px;
+}

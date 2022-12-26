@@ -1,0 +1,20 @@
+.subtes-1-instruction{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.instruction-subtest-1{
+ margin-bottom: 20px; 
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-button{
+  margin-top: 20px;
+}
